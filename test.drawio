@@ -1,6 +1,6 @@
 <mxfile host="65bd71144e">
     <diagram id="rz-pSZy5N6_m4HwgL2wP" name="Page-1">
-        <mxGraphModel dx="809" dy="705" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+        <mxGraphModel dx="1091" dy="617" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
             <root>
                 <mxCell id="0"/>
                 <mxCell id="1" parent="0"/>
@@ -8,7 +8,7 @@
         </mxGraphModel>
     </diagram>
     <diagram id="HrXQh1xvBMEiAaf8WgU-" name="Brainstorm">
-        <mxGraphModel dx="2386" dy="2176" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+        <mxGraphModel dx="2386" dy="2050" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
             <root>
                 <mxCell id="0"/>
                 <mxCell id="1" parent="0"/>
@@ -205,7 +205,7 @@
         </mxGraphModel>
     </diagram>
     <diagram id="ynymF9kKPSYh6eZQHkL9" name="'Dreamer' ideas">
-        <mxGraphModel dx="1091" dy="1874" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+        <mxGraphModel dx="1091" dy="1786" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
             <root>
                 <mxCell id="NyJLzbeO-AxxUsr2X_dB-0"/>
                 <mxCell id="NyJLzbeO-AxxUsr2X_dB-1" parent="NyJLzbeO-AxxUsr2X_dB-0"/>
@@ -258,7 +258,7 @@
         </mxGraphModel>
     </diagram>
     <diagram id="m9n4zYRa9FalsJ33cOVj" name="Realist ideas">
-        <mxGraphModel dx="1284" dy="1998" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+        <mxGraphModel dx="1284" dy="1895" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
             <root>
                 <mxCell id="VMfRpQvfpVtzTEB3DY8M-0"/>
                 <mxCell id="VMfRpQvfpVtzTEB3DY8M-1" parent="VMfRpQvfpVtzTEB3DY8M-0"/>
@@ -275,7 +275,7 @@
         </mxGraphModel>
     </diagram>
     <diagram id="K_4BjpbJ0Ry77o4Q1ica" name="Critic">
-        <mxGraphModel dx="1091" dy="705" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+        <mxGraphModel dx="1091" dy="617" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
             <root>
                 <mxCell id="xlpkiTVMq2hHaGGrLeTP-0"/>
                 <mxCell id="xlpkiTVMq2hHaGGrLeTP-1" parent="xlpkiTVMq2hHaGGrLeTP-0"/>
