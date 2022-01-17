@@ -1,0 +1,285 @@
+<mxfile host="65bd71144e">
+    <diagram id="rz-pSZy5N6_m4HwgL2wP" name="Page-1">
+        <mxGraphModel grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" page="1" fold="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+            <root>
+                <mxCell id="0"/>
+                <mxCell id="1" parent="0"/>
+            </root>
+        </mxGraphModel>
+    </diagram>
+    <diagram id="HrXQh1xvBMEiAaf8WgU-" name="Brainstorm">
+        <mxGraphModel dx="2130" dy="2078" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+            <root>
+                <mxCell id="0"/>
+                <mxCell id="1" parent="0"/>
+                <mxCell id="2" value="Ideas brainstorm" style="whiteSpace=wrap;html=1;" parent="1" vertex="1">
+                    <mxGeometry x="350" y="280" width="120" height="60" as="geometry"/>
+                </mxCell>
+                <mxCell id="lPTFZsG7vVOJHhgVgw4X-10" value="" style="edgeStyle=none;html=1;" edge="1" parent="1" source="4" target="lPTFZsG7vVOJHhgVgw4X-9">
+                    <mxGeometry relative="1" as="geometry"/>
+                </mxCell>
+                <mxCell id="4" value="Resource bank" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+                    <mxGeometry x="430" y="350" width="120" height="60" as="geometry"/>
+                </mxCell>
+                <mxCell id="9" value="" style="edgeStyle=none;html=1;" edge="1" parent="1" source="5" target="8">
+                    <mxGeometry relative="1" as="geometry"/>
+                </mxCell>
+                <mxCell id="5" value="Weekly schedule of bootcamp sessions" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+                    <mxGeometry x="450" y="200" width="120" height="60" as="geometry"/>
+                </mxCell>
+                <mxCell id="lPTFZsG7vVOJHhgVgw4X-9" value="&lt;span&gt;Resources saved by week and then topic, people can add to it with a description of what the resource is&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+                    <mxGeometry x="450" y="440" width="300" height="110" as="geometry"/>
+                </mxCell>
+                <mxCell id="8" value="To be completed by coaches?" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+                    <mxGeometry x="470" y="80" width="120" height="40" as="geometry"/>
+                </mxCell>
+                <mxCell id="12" value="" style="edgeStyle=none;html=1;" edge="1" parent="1" source="10" target="11">
+                    <mxGeometry relative="1" as="geometry"/>
+                </mxCell>
+                <mxCell id="10" value="Dictionary / glossary of key words/ concepts" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+                    <mxGeometry x="150" y="360" width="140" height="60" as="geometry"/>
+                </mxCell>
+                <mxCell id="11" value="links to code demonstration that particular thing" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+                    <mxGeometry x="30" y="460" width="120" height="60" as="geometry"/>
+                </mxCell>
+                <mxCell id="32i9wKqzxSb8sTyO2xOO-14" value="" style="edgeStyle=none;html=1;" edge="1" parent="1" source="32i9wKqzxSb8sTyO2xOO-12" target="32i9wKqzxSb8sTyO2xOO-13">
+                    <mxGeometry relative="1" as="geometry"/>
+                </mxCell>
+                <mxCell id="sFV2WAc8IIe1Z0JaGUog-13" value="" style="edgeStyle=none;html=1;" edge="1" parent="1" source="32i9wKqzxSb8sTyO2xOO-12" target="sFV2WAc8IIe1Z0JaGUog-12">
+                    <mxGeometry relative="1" as="geometry"/>
+                </mxCell>
+                <mxCell id="32i9wKqzxSb8sTyO2xOO-12" value="Portfolio-builder" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+                    <mxGeometry x="140" y="150" width="120" height="60" as="geometry"/>
+                </mxCell>
+                <mxCell id="32i9wKqzxSb8sTyO2xOO-13" value="A way for bootcampers to keep a record of work they'd like to include in their portfolio" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+                    <mxGeometry x="100" y="10" width="160" height="60" as="geometry"/>
+                </mxCell>
+                <mxCell id="32i9wKqzxSb8sTyO2xOO-17" value="" style="edgeStyle=none;html=1;" edge="1" parent="1" source="32i9wKqzxSb8sTyO2xOO-15" target="32i9wKqzxSb8sTyO2xOO-16">
+                    <mxGeometry relative="1" as="geometry"/>
+                </mxCell>
+                <mxCell id="32i9wKqzxSb8sTyO2xOO-15" value="Wellbeing-type app?" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+                    <mxGeometry x="210" y="260" width="120" height="60" as="geometry"/>
+                </mxCell>
+                <mxCell id="32i9wKqzxSb8sTyO2xOO-16" value="Checks when you last went outside, drank water, looked away from the screen, etc." style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+                    <mxGeometry x="10" y="260" width="120" height="60" as="geometry"/>
+                </mxCell>
+                <mxCell id="32i9wKqzxSb8sTyO2xOO-20" value="" style="edgeStyle=none;html=1;" edge="1" parent="1" source="32i9wKqzxSb8sTyO2xOO-18" target="32i9wKqzxSb8sTyO2xOO-19">
+                    <mxGeometry relative="1" as="geometry"/>
+                </mxCell>
+                <mxCell id="32i9wKqzxSb8sTyO2xOO-22" value="" style="edgeStyle=none;html=1;" edge="1" parent="1" source="32i9wKqzxSb8sTyO2xOO-18" target="32i9wKqzxSb8sTyO2xOO-21">
+                    <mxGeometry relative="1" as="geometry"/>
+                </mxCell>
+                <mxCell id="32i9wKqzxSb8sTyO2xOO-18" value="Combination of resource / wellbeing / evening time-management" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+                    <mxGeometry x="570" y="270" width="200" height="60" as="geometry"/>
+                </mxCell>
+                <mxCell id="32i9wKqzxSb8sTyO2xOO-19" value="Include unfinished workshops, bridge bootcamp with personal life" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+                    <mxGeometry x="610" y="130" width="160" height="60" as="geometry"/>
+                </mxCell>
+                <mxCell id="32i9wKqzxSb8sTyO2xOO-21" value="Prompt for bootcampers to use app when Zoom meeting closes?" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+                    <mxGeometry x="640" y="360" width="180" height="60" as="geometry"/>
+                </mxCell>
+                <mxCell id="32i9wKqzxSb8sTyO2xOO-25" value="" style="edgeStyle=none;html=1;" edge="1" parent="1" source="32i9wKqzxSb8sTyO2xOO-23" target="32i9wKqzxSb8sTyO2xOO-24">
+                    <mxGeometry relative="1" as="geometry"/>
+                </mxCell>
+                <mxCell id="32i9wKqzxSb8sTyO2xOO-32" value="" style="edgeStyle=none;html=1;" edge="1" parent="1" source="32i9wKqzxSb8sTyO2xOO-23" target="32i9wKqzxSb8sTyO2xOO-24">
+                    <mxGeometry relative="1" as="geometry"/>
+                </mxCell>
+                <mxCell id="32i9wKqzxSb8sTyO2xOO-33" value="" style="edgeStyle=none;html=1;" edge="1" parent="1" source="32i9wKqzxSb8sTyO2xOO-23" target="32i9wKqzxSb8sTyO2xOO-24">
+                    <mxGeometry relative="1" as="geometry"/>
+                </mxCell>
+                <mxCell id="32i9wKqzxSb8sTyO2xOO-37" value="" style="edgeStyle=none;html=1;" edge="1" parent="1" source="32i9wKqzxSb8sTyO2xOO-23" target="32i9wKqzxSb8sTyO2xOO-36">
+                    <mxGeometry relative="1" as="geometry"/>
+                </mxCell>
+                <mxCell id="32i9wKqzxSb8sTyO2xOO-23" value="Mentor sessions / ways of sharing experience" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+                    <mxGeometry x="300" y="120" width="120" height="60" as="geometry"/>
+                </mxCell>
+                <mxCell id="32i9wKqzxSb8sTyO2xOO-24" value="Settling in time / activities / guidance?" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+                    <mxGeometry x="294" y="10" width="120" height="60" as="geometry"/>
+                </mxCell>
+                <mxCell id="32i9wKqzxSb8sTyO2xOO-36" value="Some sort of structure / how to make the most of mentor sessions" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+                    <mxGeometry x="500" y="-20" width="220" height="60" as="geometry"/>
+                </mxCell>
+                <mxCell id="32i9wKqzxSb8sTyO2xOO-38" value="Criteria:&amp;nbsp;&lt;br&gt;&lt;div style=&quot;text-align: left&quot;&gt;&lt;ul&gt;&lt;li&gt;&lt;span&gt;Should be useful and used&lt;/span&gt;&lt;/li&gt;&lt;li&gt;&lt;span&gt;Fun / engaging&lt;/span&gt;&lt;/li&gt;&lt;li&gt;&lt;span&gt;Should improve the bootcamper journey&lt;/span&gt;&lt;/li&gt;&lt;/ul&gt;&lt;/div&gt;" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
+                    <mxGeometry x="60" y="600" width="320" height="120" as="geometry"/>
+                </mxCell>
+                <mxCell id="32i9wKqzxSb8sTyO2xOO-41" value="" style="edgeStyle=none;html=1;" edge="1" parent="1" source="32i9wKqzxSb8sTyO2xOO-39" target="32i9wKqzxSb8sTyO2xOO-40">
+                    <mxGeometry relative="1" as="geometry"/>
+                </mxCell>
+                <mxCell id="32i9wKqzxSb8sTyO2xOO-39" value="Game to help solidify an element of the course" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+                    <mxGeometry x="350" y="-120" width="190" height="60" as="geometry"/>
+                </mxCell>
+                <mxCell id="32i9wKqzxSb8sTyO2xOO-40" value="e.g. Codewars task, the Detective activity" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+                    <mxGeometry x="655" y="-120" width="120" height="60" as="geometry"/>
+                </mxCell>
+                <mxCell id="32i9wKqzxSb8sTyO2xOO-42" value="Qs for us to answer:&amp;nbsp;&lt;br&gt;&lt;ul&gt;&lt;li&gt;What would be most useful?&lt;/li&gt;&lt;li&gt;What would be most used?&lt;/li&gt;&lt;li&gt;Is there a way of making it individualised - e.g. a new db being created per user? - may be a longer-term plan&lt;/li&gt;&lt;/ul&gt;" style="whiteSpace=wrap;html=1;align=left;" vertex="1" parent="1">
+                    <mxGeometry x="440" y="590" width="290" height="160" as="geometry"/>
+                </mxCell>
+                <mxCell id="32i9wKqzxSb8sTyO2xOO-43" value="Something to support reflection / follow-up of forms, feedback, quizzes, etc." style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+                    <mxGeometry x="60" y="-120" width="200" height="80" as="geometry"/>
+                </mxCell>
+                <mxCell id="32i9wKqzxSb8sTyO2xOO-46" value="" style="edgeStyle=none;html=1;" edge="1" parent="1" source="32i9wKqzxSb8sTyO2xOO-44" target="32i9wKqzxSb8sTyO2xOO-45">
+                    <mxGeometry relative="1" as="geometry"/>
+                </mxCell>
+                <mxCell id="32i9wKqzxSb8sTyO2xOO-44" value="Skills match and chat service" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+                    <mxGeometry x="210" y="-190" width="140" height="60" as="geometry"/>
+                </mxCell>
+                <mxCell id="32i9wKqzxSb8sTyO2xOO-45" value="Helpdesk-type app" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+                    <mxGeometry x="410" y="-210" width="120" height="60" as="geometry"/>
+                </mxCell>
+                <mxCell id="32i9wKqzxSb8sTyO2xOO-49" value="" style="edgeStyle=none;html=1;" edge="1" parent="1" source="32i9wKqzxSb8sTyO2xOO-47" target="32i9wKqzxSb8sTyO2xOO-48">
+                    <mxGeometry relative="1" as="geometry"/>
+                </mxCell>
+                <mxCell id="32i9wKqzxSb8sTyO2xOO-47" value="Intranet-style platform" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+                    <mxGeometry x="555" y="-200" width="110" height="60" as="geometry"/>
+                </mxCell>
+                <mxCell id="32i9wKqzxSb8sTyO2xOO-48" value="Social media, bios for each participant, etc." style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+                    <mxGeometry x="700" y="-220" width="120" height="60" as="geometry"/>
+                </mxCell>
+                <mxCell id="32i9wKqzxSb8sTyO2xOO-50" value="Developing the SoC community" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+                    <mxGeometry x="260" y="460" width="120" height="60" as="geometry"/>
+                </mxCell>
+                <mxCell id="sFV2WAc8IIe1Z0JaGUog-15" value="" style="edgeStyle=none;html=1;" edge="1" parent="1" source="sFV2WAc8IIe1Z0JaGUog-12" target="sFV2WAc8IIe1Z0JaGUog-14">
+                    <mxGeometry relative="1" as="geometry"/>
+                </mxCell>
+                <mxCell id="sFV2WAc8IIe1Z0JaGUog-12" value="Careers / job application portal" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+                    <mxGeometry x="-60" y="150" width="120" height="60" as="geometry"/>
+                </mxCell>
+                <mxCell id="sFV2WAc8IIe1Z0JaGUog-14" value="Log good examples of demonstrating skills&lt;br&gt;&lt;div&gt;&lt;span&gt;10 second intro record&lt;br&gt;Other info that may be useful in interviews / applications&lt;/span&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;align=left;" vertex="1" parent="1">
+                    <mxGeometry x="-110" y="10" width="200" height="80" as="geometry"/>
+                </mxCell>
+                <mxCell id="sFV2WAc8IIe1Z0JaGUog-16" value="Voting key!&lt;br&gt;&lt;ul&gt;&lt;li&gt;&lt;font color=&quot;#00cc00&quot;&gt;3 points&lt;/font&gt;&lt;/li&gt;&lt;li&gt;&lt;font color=&quot;#ff8000&quot;&gt;2 points&lt;/font&gt;&lt;/li&gt;&lt;li&gt;&lt;font color=&quot;#ff0000&quot;&gt;1 point&lt;/font&gt;&lt;/li&gt;&lt;/ul&gt;" style="whiteSpace=wrap;html=1;align=left;" vertex="1" parent="1">
+                    <mxGeometry x="-280" y="-220" width="120" height="140" as="geometry"/>
+                </mxCell>
+                <mxCell id="lPTFZsG7vVOJHhgVgw4X-13" value="" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;fillColor=#00CC00;" vertex="1" parent="1">
+                    <mxGeometry x="230" y="310" width="20" height="20" as="geometry"/>
+                </mxCell>
+                <mxCell id="lPTFZsG7vVOJHhgVgw4X-14" value="" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;fillColor=#FF8000;" vertex="1" parent="1">
+                    <mxGeometry x="255" y="310" width="20" height="20" as="geometry"/>
+                </mxCell>
+                <mxCell id="lPTFZsG7vVOJHhgVgw4X-15" value="" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;fillColor=#CC0000;" vertex="1" parent="1">
+                    <mxGeometry x="-100" y="-150" width="20" height="20" as="geometry"/>
+                </mxCell>
+                <mxCell id="lPTFZsG7vVOJHhgVgw4X-17" value="" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;fillColor=#00CC00;" vertex="1" parent="1">
+                    <mxGeometry x="470" y="340" width="20" height="20" as="geometry"/>
+                </mxCell>
+                <mxCell id="lPTFZsG7vVOJHhgVgw4X-18" value="" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;fillColor=#00CC00;" vertex="1" parent="1">
+                    <mxGeometry x="-70" y="-220" width="20" height="20" as="geometry"/>
+                </mxCell>
+                <mxCell id="lPTFZsG7vVOJHhgVgw4X-19" value="" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;fillColor=#00CC00;" vertex="1" parent="1">
+                    <mxGeometry x="330" y="110" width="20" height="20" as="geometry"/>
+                </mxCell>
+                <mxCell id="lPTFZsG7vVOJHhgVgw4X-28" value="" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;fillColor=#FF8000;" vertex="1" parent="1">
+                    <mxGeometry x="-90" y="-190" width="20" height="20" as="geometry"/>
+                </mxCell>
+                <mxCell id="lPTFZsG7vVOJHhgVgw4X-29" value="" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;fillColor=#FF8000;" vertex="1" parent="1">
+                    <mxGeometry x="170" y="140" width="20" height="20" as="geometry"/>
+                </mxCell>
+                <mxCell id="lPTFZsG7vVOJHhgVgw4X-30" value="" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;fillColor=#FF8000;" vertex="1" parent="1">
+                    <mxGeometry x="680" y="270" width="20" height="20" as="geometry"/>
+                </mxCell>
+                <mxCell id="lPTFZsG7vVOJHhgVgw4X-32" value="" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;fillColor=#CC0000;" vertex="1" parent="1">
+                    <mxGeometry x="360" y="110" width="20" height="20" as="geometry"/>
+                </mxCell>
+                <mxCell id="lPTFZsG7vVOJHhgVgw4X-33" value="" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;fillColor=#CC0000;" vertex="1" parent="1">
+                    <mxGeometry x="450" y="-130" width="20" height="20" as="geometry"/>
+                </mxCell>
+                <mxCell id="y1dvWzS01aku1-jryVTI-13" value="" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;fillColor=#FF8000;" vertex="1" parent="1">
+                    <mxGeometry x="655" y="260" width="20" height="20" as="geometry"/>
+                </mxCell>
+                <mxCell id="y1dvWzS01aku1-jryVTI-12" value="" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;fillColor=#00CC00;" vertex="1" parent="1">
+                    <mxGeometry x="200" y="130" width="20" height="20" as="geometry"/>
+                </mxCell>
+                <mxCell id="y1dvWzS01aku1-jryVTI-14" style="edgeStyle=none;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=1;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="y1dvWzS01aku1-jryVTI-12" target="y1dvWzS01aku1-jryVTI-12">
+                    <mxGeometry relative="1" as="geometry"/>
+                </mxCell>
+                <mxCell id="sFV2WAc8IIe1Z0JaGUog-27" value="&lt;font style=&quot;font-size: 14px&quot;&gt;&lt;font color=&quot;#41ff3b&quot;&gt;Tally of results:&amp;nbsp;&lt;/font&gt;&lt;br&gt;&lt;span style=&quot;background-color: rgb(179 , 222 , 255)&quot;&gt;&lt;font color=&quot;#000000&quot;&gt;Portfolio-builder - 5&lt;br&gt;Wellbeing - 5&lt;br&gt;Mentor - 4&lt;/font&gt;&lt;/span&gt;&lt;br&gt;&lt;font color=&quot;#41ff3b&quot;&gt;Resource - 4&lt;/font&gt;&lt;br&gt;&lt;font color=&quot;#41ff3b&quot;&gt;Combination app - 4&lt;/font&gt;&lt;br&gt;&lt;/font&gt;" style="whiteSpace=wrap;html=1;fontSize=14;fontColor=#0B03FF;" vertex="1" parent="1">
+                    <mxGeometry x="-390" y="110" width="280" height="220" as="geometry"/>
+                </mxCell>
+                <mxCell id="y1dvWzS01aku1-jryVTI-15" value="" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;fillColor=#CC0000;" vertex="1" parent="1">
+                    <mxGeometry x="490" y="180" width="20" height="20" as="geometry"/>
+                </mxCell>
+                <mxCell id="lPTFZsG7vVOJHhgVgw4X-37" value="" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;fillColor=#CC0000;" vertex="1" parent="1">
+                    <mxGeometry x="500" y="340" width="20" height="20" as="geometry"/>
+                </mxCell>
+            </root>
+        </mxGraphModel>
+    </diagram>
+    <diagram id="ynymF9kKPSYh6eZQHkL9" name="'Dreamer' ideas">
+        <mxGraphModel grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" page="1" fold="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+            <root>
+                <mxCell id="NyJLzbeO-AxxUsr2X_dB-0"/>
+                <mxCell id="NyJLzbeO-AxxUsr2X_dB-1" parent="NyJLzbeO-AxxUsr2X_dB-0"/>
+                <mxCell id="o6PKn9Y_0IcCdwslh7Aw-0" value="&lt;font color=&quot;#ffffff&quot;&gt;Wellbeing&lt;br&gt;&lt;ul&gt;&lt;li&gt;&lt;font color=&quot;#ffffff&quot;&gt;Alerts for taking a break, drinking water, etc.&lt;/font&gt;&lt;/li&gt;&lt;li&gt;&lt;font color=&quot;#ffffff&quot;&gt;Logging how much you've drunk throughout the day&lt;/font&gt;&lt;/li&gt;&lt;li&gt;&lt;font color=&quot;#ffffff&quot;&gt;Link to pre-existing APIs?&lt;/font&gt;&lt;/li&gt;&lt;li&gt;&lt;font color=&quot;#ffffff&quot;&gt;Randomised motivational quotes&lt;/font&gt;&lt;/li&gt;&lt;li&gt;&lt;font color=&quot;#ffffff&quot;&gt;Inspirational YouTube / TED talks&lt;/font&gt;&lt;/li&gt;&lt;li&gt;&lt;font color=&quot;#ffffff&quot;&gt;Resource page signposting to external mental health support services&lt;br&gt;Links to activities for wellbeing - e.g. Qigong, HIIT classes, yoga, etc.&lt;/font&gt;&lt;/li&gt;&lt;li&gt;&lt;font color=&quot;#ffffff&quot;&gt;Improve and increase course retention&lt;/font&gt;&lt;/li&gt;&lt;li&gt;&lt;font color=&quot;#ffffff&quot;&gt;Chat option for past bootcampers - informal mentoring&lt;/font&gt;&lt;/li&gt;&lt;li&gt;&lt;font color=&quot;#ffffff&quot;&gt;Links to the feedback questionaire based on your 'how are you feeling' rating - emotion tracker, prompts for how to improve your wellbeing etc.&lt;/font&gt;&lt;/li&gt;&lt;li&gt;&lt;font color=&quot;#ffffff&quot;&gt;Could help frame conversations and act as a starting point for discussing wellbeing&lt;/font&gt;&lt;/li&gt;&lt;li&gt;&lt;font color=&quot;#ffffff&quot;&gt;Suggestions / recommendations box where people can share resources&lt;/font&gt;&lt;/li&gt;&lt;/ul&gt;&lt;/font&gt;" style="whiteSpace=wrap;html=1;labelBackgroundColor=#B0B0B0;fontSize=14;fontColor=#000000;align=left;" vertex="1" parent="NyJLzbeO-AxxUsr2X_dB-1">
+                    <mxGeometry y="40" width="230" height="650" as="geometry"/>
+                </mxCell>
+                <mxCell id="o6PKn9Y_0IcCdwslh7Aw-1" value="&lt;font color=&quot;#ffffff&quot;&gt;&lt;span&gt;Portfolio&lt;br&gt;&lt;/span&gt;&lt;ul&gt;&lt;li&gt;&lt;font color=&quot;#ffffff&quot;&gt;Log good examples of work - fields to add short description, date, etc.?&lt;/font&gt;&lt;/li&gt;&lt;li&gt;&lt;font color=&quot;#ffffff&quot;&gt;Work in Progress section linking to GitHub&lt;/font&gt;&lt;/li&gt;&lt;li&gt;&lt;font color=&quot;#ffffff&quot;&gt;API linking to keywords that the user chooses, giving you job alerts&lt;/font&gt;&lt;/li&gt;&lt;li&gt;&lt;font color=&quot;#ffffff&quot;&gt;Bank of common job description person specification skills that the user can fill in with strong examples&lt;/font&gt;&lt;/li&gt;&lt;li&gt;&lt;font color=&quot;#ffffff&quot;&gt;Displays well and functionality works on all devices&lt;/font&gt;&lt;/li&gt;&lt;li&gt;&lt;font color=&quot;#ffffff&quot;&gt;Accessibly-designed&lt;/font&gt;&lt;/li&gt;&lt;li&gt;&lt;font color=&quot;#ffffff&quot;&gt;CV builder / template - import LinkedIn profile that you can then edit&lt;/font&gt;&lt;/li&gt;&lt;li&gt;Example question bank that employers can contribute to, perhaps include what they'd look for in an answer&lt;/li&gt;&lt;/ul&gt;&lt;/font&gt;" style="whiteSpace=wrap;html=1;labelBackgroundColor=#B0B0B0;fontSize=14;fontColor=#000000;align=left;" vertex="1" parent="NyJLzbeO-AxxUsr2X_dB-1">
+                    <mxGeometry x="250" y="40" width="230" height="550" as="geometry"/>
+                </mxCell>
+                <mxCell id="o6PKn9Y_0IcCdwslh7Aw-2" value="&lt;font color=&quot;#ffffff&quot;&gt;Mentor&lt;br&gt;&lt;ul&gt;&lt;li&gt;&lt;font color=&quot;#ffffff&quot;&gt;Documents that you can live-edit:&amp;nbsp;&lt;br&gt;- Session structure template - agenda, prompts&lt;br&gt;&lt;/font&gt;&lt;/li&gt;&lt;li&gt;&lt;font color=&quot;#ffffff&quot;&gt;Mentor swap, based on bootcamper's interests / areas for development&lt;/font&gt;&lt;/li&gt;&lt;li&gt;Diary match to arrange a shadowing day&lt;/li&gt;&lt;li&gt;List of mentors with their specialities / interests - click button to connect with them&lt;/li&gt;&lt;li&gt;'Jobs board' that mentors update&lt;/li&gt;&lt;/ul&gt;&lt;/font&gt;" style="whiteSpace=wrap;html=1;labelBackgroundColor=#B0B0B0;fontSize=14;fontColor=#000000;align=left;" vertex="1" parent="NyJLzbeO-AxxUsr2X_dB-1">
+                    <mxGeometry x="500" y="40" width="230" height="550" as="geometry"/>
+                </mxCell>
+                <mxCell id="xV9VvWH6Cy4pYi_pQPKT-0" value="" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;fillColor=#CC0000;" vertex="1" parent="NyJLzbeO-AxxUsr2X_dB-1">
+                    <mxGeometry x="80" y="790" width="20" height="20" as="geometry"/>
+                </mxCell>
+                <mxCell id="xV9VvWH6Cy4pYi_pQPKT-1" value="" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;fillColor=#00CC00;" vertex="1" parent="NyJLzbeO-AxxUsr2X_dB-1">
+                    <mxGeometry x="20" y="790" width="20" height="20" as="geometry"/>
+                </mxCell>
+                <mxCell id="xV9VvWH6Cy4pYi_pQPKT-2" value="" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;fillColor=#FF8000;" vertex="1" parent="NyJLzbeO-AxxUsr2X_dB-1">
+                    <mxGeometry x="50" y="790" width="20" height="20" as="geometry"/>
+                </mxCell>
+                <mxCell id="I4XCTdFv-68OfF4CrP0y-0" value="&lt;font style=&quot;font-size: 18px&quot;&gt;Dreamer ideation for top three ideas&lt;/font&gt;" style="whiteSpace=wrap;html=1;labelBackgroundColor=#808080;fontSize=14;fontColor=#FFFFFF;" vertex="1" parent="NyJLzbeO-AxxUsr2X_dB-1">
+                    <mxGeometry x="200" y="-20" width="350" height="60" as="geometry"/>
+                </mxCell>
+                <mxCell id="fXUtsUajeaIE4GUapQUa-0" value="" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;fillColor=#00CC00;" vertex="1" parent="NyJLzbeO-AxxUsr2X_dB-1">
+                    <mxGeometry x="120" y="50" width="20" height="20" as="geometry"/>
+                </mxCell>
+                <mxCell id="fXUtsUajeaIE4GUapQUa-1" value="" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;fillColor=#FF8000;" vertex="1" parent="NyJLzbeO-AxxUsr2X_dB-1">
+                    <mxGeometry x="440" y="40" width="20" height="20" as="geometry"/>
+                </mxCell>
+                <mxCell id="fXUtsUajeaIE4GUapQUa-2" value="" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;fillColor=#CC0000;" vertex="1" parent="NyJLzbeO-AxxUsr2X_dB-1">
+                    <mxGeometry x="550" y="50" width="20" height="20" as="geometry"/>
+                </mxCell>
+                <mxCell id="fLCg5COB0SuSKeZiErYq-4" style="edgeStyle=none;html=1;exitX=1;exitY=1;exitDx=0;exitDy=0;strokeColor=#63F01D;" edge="1" parent="NyJLzbeO-AxxUsr2X_dB-1">
+                    <mxGeometry relative="1" as="geometry">
+                        <mxPoint x="120" y="750" as="targetPoint"/>
+                        <mxPoint x="127.0710678118653" y="757.0710678118653" as="sourcePoint"/>
+                    </mxGeometry>
+                </mxCell>
+                <mxCell id="r5XWFYjBKMy7FRWZb3CO-0" value="" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;fillColor=#00CC00;" vertex="1" parent="NyJLzbeO-AxxUsr2X_dB-1">
+                    <mxGeometry x="80" y="10" width="20" height="20" as="geometry"/>
+                </mxCell>
+                <mxCell id="fLCg5COB0SuSKeZiErYq-5" value="" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;fillColor=#00CC00;" vertex="1" parent="NyJLzbeO-AxxUsr2X_dB-1">
+                    <mxGeometry x="130" y="20" width="20" height="20" as="geometry"/>
+                </mxCell>
+                <mxCell id="fLCg5COB0SuSKeZiErYq-6" value="" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;fillColor=#00CC00;" vertex="1" parent="NyJLzbeO-AxxUsr2X_dB-1">
+                    <mxGeometry x="80" y="40" width="20" height="20" as="geometry"/>
+                </mxCell>
+            </root>
+        </mxGraphModel>
+    </diagram>
+    <diagram id="m9n4zYRa9FalsJ33cOVj" name="Realist ideas">
+        <mxGraphModel dx="1303" dy="2078" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+            <root>
+                <mxCell id="VMfRpQvfpVtzTEB3DY8M-0"/>
+                <mxCell id="VMfRpQvfpVtzTEB3DY8M-1" parent="VMfRpQvfpVtzTEB3DY8M-0"/>
+                <mxCell id="7Cc63EFkLCWkyIDku9i4-0" value="&lt;font color=&quot;#ffffff&quot;&gt;Wellbeing - 'dreamer' ideas&lt;br&gt;&lt;ul&gt;&lt;li&gt;&lt;font color=&quot;#ffffff&quot;&gt;Alerts for taking a break, drinking water, etc.&lt;/font&gt;&lt;/li&gt;&lt;li&gt;&lt;font color=&quot;#ffffff&quot;&gt;Logging how much you've drunk throughout the day&lt;/font&gt;&lt;/li&gt;&lt;li&gt;&lt;font color=&quot;#ffffff&quot;&gt;Link to pre-existing APIs?&lt;/font&gt;&lt;/li&gt;&lt;li&gt;&lt;font color=&quot;#ffffff&quot;&gt;Randomised motivational quotes - representative of the diverse cohort&lt;/font&gt;&lt;/li&gt;&lt;li&gt;&lt;font color=&quot;#ffffff&quot;&gt;Inspirational YouTube / TED talks&lt;/font&gt;&lt;/li&gt;&lt;li&gt;&lt;font color=&quot;#ffffff&quot;&gt;Positive media - playlists, films, podcasts - initial list, ability of users to add? Shared / personal lists?&lt;br&gt;- could be a list that a user creates of resources they will return to&lt;/font&gt;&lt;/li&gt;&lt;li&gt;&lt;font color=&quot;#ffffff&quot;&gt;Nutrition and diet information&lt;/font&gt;&lt;/li&gt;&lt;li&gt;&lt;font color=&quot;#ffffff&quot;&gt;Resource page signposting to external mental health support services&lt;br&gt;Links to activities for wellbeing - e.g. Qigong, HIIT classes, yoga, etc.&lt;/font&gt;&lt;/li&gt;&lt;li&gt;&lt;font color=&quot;#ffffff&quot;&gt;Improve and increase course retention&lt;/font&gt;&lt;/li&gt;&lt;li&gt;&lt;font color=&quot;#ffffff&quot;&gt;Chat option for past bootcampers - informal mentoring&lt;/font&gt;&lt;/li&gt;&lt;li&gt;&lt;font color=&quot;#ffffff&quot;&gt;Links to the feedback questionaire based on your 'how are you feeling' rating - emotion tracker, prompts for how to improve your wellbeing etc.&lt;/font&gt;&lt;/li&gt;&lt;li&gt;&lt;font color=&quot;#ffffff&quot;&gt;Could help frame conversations and act as a starting point for discussing wellbeing&lt;/font&gt;&lt;/li&gt;&lt;li&gt;&lt;font color=&quot;#ffffff&quot;&gt;Suggestions / recommendations box where people can share resources&lt;/font&gt;&lt;/li&gt;&lt;li&gt;&lt;font color=&quot;#ffffff&quot;&gt;Links / stories of inspirational / relatable people, e.g. Ira, Manu&lt;/font&gt;&lt;/li&gt;&lt;li&gt;&lt;font color=&quot;#ffffff&quot;&gt;Floating widget that displays when you are in other windows / apps&lt;/font&gt;&lt;/li&gt;&lt;li&gt;&lt;font color=&quot;#ffffff&quot;&gt;Desk stretch prompts&lt;/font&gt;&lt;/li&gt;&lt;/ul&gt;&lt;/font&gt;" style="whiteSpace=wrap;html=1;labelBackgroundColor=#B0B0B0;fontSize=14;fontColor=#000000;align=left;" vertex="1" parent="VMfRpQvfpVtzTEB3DY8M-1">
+                    <mxGeometry y="-150" width="810" height="470" as="geometry"/>
+                </mxCell>
+                <mxCell id="7Cc63EFkLCWkyIDku9i4-1" value="" style="shape=singleArrow;whiteSpace=wrap;html=1;arrowWidth=0.3;arrowSize=0.3875;direction=south;" vertex="1" parent="VMfRpQvfpVtzTEB3DY8M-1">
+                    <mxGeometry x="384" y="330" width="60" height="80" as="geometry"/>
+                </mxCell>
+                <mxCell id="7Cc63EFkLCWkyIDku9i4-2" value="MVP&lt;br&gt;&lt;ul&gt;&lt;li&gt;Alerts for taking a break, drinking water, screen time timer&lt;/li&gt;&lt;li&gt;Start button for starting the working day&lt;/li&gt;&lt;li&gt;Timers can be reset when you have taken your break, had a glass of water, etc.&lt;/li&gt;&lt;li&gt;Colour-coding for when reminders are approaching - e.g. amber for when you are 15 mins away from a break prompt&lt;/li&gt;&lt;li&gt;Core counters / timers on homepage, then they appear on any other pages within the app that you navigate to.&lt;/li&gt;&lt;/ul&gt;" style="whiteSpace=wrap;html=1;align=left;" vertex="1" parent="VMfRpQvfpVtzTEB3DY8M-1">
+                    <mxGeometry x="60" y="420" width="670" height="250" as="geometry"/>
+                </mxCell>
+            </root>
+        </mxGraphModel>
+    </diagram>
+    <diagram id="K_4BjpbJ0Ry77o4Q1ica" name="Critic">
+        <mxGraphModel dx="1100" dy="572" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+            <root>
+                <mxCell id="xlpkiTVMq2hHaGGrLeTP-0"/>
+                <mxCell id="xlpkiTVMq2hHaGGrLeTP-1" parent="xlpkiTVMq2hHaGGrLeTP-0"/>
+            </root>
+        </mxGraphModel>
+    </diagram>
+</mxfile>
