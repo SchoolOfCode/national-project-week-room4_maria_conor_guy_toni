@@ -7,7 +7,9 @@
     "node": "13.14"
   },
   "scripts": {
-    "start": "node ./bin/www.js"
+    "start": "node -r dotenv/config ./bin/www.js",
+    "dev": "nodemon ./bin/www.js",
+    "dbcreatetimetable": "node -r dotenv/config ./db/scripts/createTimeTable.js"
   },
   "dependencies": {
     "cookie-parser": "~1.4.4",
