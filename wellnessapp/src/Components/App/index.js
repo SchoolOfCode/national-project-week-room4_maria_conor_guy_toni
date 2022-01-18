@@ -9,9 +9,12 @@ function App() {
       let data = await response.json();
       setTimerData([...timerData, data]);
       console.log(data);
+      console.log(timerData);
    }
 
-   useEffect(() => getTimers());
+   useEffect(() => {
+      getTimers();
+   }, []);
 
    return (
       <div className="App">
