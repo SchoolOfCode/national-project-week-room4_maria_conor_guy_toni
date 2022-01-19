@@ -1,16 +1,18 @@
 {
   "files": {
-    "main.css": "/static/css/main.14fb9c96.css",
-    "main.js": "/static/js/main.fa473dc1.js",
+    "main.css": "/static/css/main.f44d8e54.css",
+    "main.js": "/static/js/main.cec2ea8c.js",
     "static/js/787.72fb2167.chunk.js": "/static/js/787.72fb2167.chunk.js",
     "static/media/School-of-Wellness.png": "/static/media/School-of-Wellness.448ccfd0478c6db41d55.png",
+    "static/media/Samaritans-logo.png": "/static/media/Samaritans-logo.34bc2589bd84a4ef2563.png",
+    "static/media/Mind-Logo.png": "/static/media/Mind-Logo.c0852e4a290d03519198.png",
     "index.html": "/index.html",
-    "main.14fb9c96.css.map": "/static/css/main.14fb9c96.css.map",
-    "main.fa473dc1.js.map": "/static/js/main.fa473dc1.js.map",
+    "main.f44d8e54.css.map": "/static/css/main.f44d8e54.css.map",
+    "main.cec2ea8c.js.map": "/static/js/main.cec2ea8c.js.map",
     "787.72fb2167.chunk.js.map": "/static/js/787.72fb2167.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.14fb9c96.css",
-    "static/js/main.fa473dc1.js"
+    "static/css/main.f44d8e54.css",
+    "static/js/main.cec2ea8c.js"
   ]
 }
