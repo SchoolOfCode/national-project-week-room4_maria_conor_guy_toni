@@ -6,27 +6,29 @@ import "./App.css";
 import Stopwatch from "../Stopwatchapp";
 
 function App() {
-  const [timerData, setTimerData] = useState([]);
+   const [timerData, setTimerData] = useState([]);
 
-  async function getTimers() {
-    const response = await fetch("/timers");
-    let data = await response.json();
-    setTimerData([...timerData, data]);
-    console.log(data);
-  }
+   async function getTimers() {
+      const response = await fetch("/timers");
+      let data = await response.json();
+      setTimerData([...timerData, data.payload]);
+      console.log(data.payload);
+   }
 
-  useEffect(() => {
-    getTimers();
-  }, []);
+   useEffect(() => {
+      getTimers();
+   }, []);
 
-  return (
-    <div className="App">
-      <Logo />
-      <PageHeading />
-      <PageSubheading />
-      <Stopwatch />
-    </div>
-  );
+   console.log("this is the timerdata", timerData);
+
+   return (
+      <div className="App">
+         <Logo />
+         <PageHeading />
+         <PageSubheading />
+         <Stopwatch metric={timerData.title} />
+      </div>
+   );
 }
 
 export default App;
