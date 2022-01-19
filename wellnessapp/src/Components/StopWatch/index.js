@@ -1,21 +1,39 @@
-import React, { useState } from "react";
+import { useState, useEffect, useMemo } from "react";
 import "./StopWatch.css";
 import Timer from "./Timer";
 import ControlButtons from "./Controlbuttons";
 import MetricText from "./MetricText";
 
-function StopWatch({ metric }) {
+const getSeconds = (timeString) => {
+   const [hours, minutes, seconds] = timeString.split(":");
+   return Number(hours) * 3600 + Number(minutes) * 60 + Number(seconds);
+};
+
+function StopWatch({ metric, warning, overdue }) {
+   const warningSeconds = getSeconds(warning);
+   const overdueSeconds = getSeconds(overdue);
+
    const [isActive, setIsActive] = useState(false);
    const [isPaused, setIsPaused] = useState(true);
    const [time, setTime] = useState(0);
 
-   React.useEffect(() => {
+   const timerState = useMemo(() => {
+      if (time / 1000 > overdueSeconds) {
+         return "overdue";
+      }
+      if (time / 1000 > warningSeconds) {
+         return "warning";
+      }
+      return "default";
+   }, [warningSeconds, overdueSeconds, time]);
+
+   useEffect(() => {
       let interval = null;
 
       if (isActive && isPaused === false) {
          interval = setInterval(() => {
-            setTime((time) => time + 10);
-         }, 10);
+            setTime((time) => time + 1000);
+         }, 1000);
       } else {
          clearInterval(interval);
       }
@@ -41,7 +59,7 @@ function StopWatch({ metric }) {
    return (
       <div className="stop-watch">
          <MetricText metric={metric} />
-         <Timer time={time} />
+         <Timer timerState={timerState} time={time} />
          <ControlButtons
             active={isActive}
             isPaused={isPaused}

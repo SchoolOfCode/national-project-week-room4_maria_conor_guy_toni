@@ -4,8 +4,8 @@ import PageHeading from "../PageHeading";
 import PageSubheading from "../PageSubheading";
 import QuoteText from "../QuoteText";
 import "./App.css";
-import Stopwatch from "../Stopwatchapp";
-import Footer from "../Footer"
+import Stopwatch from "../StopWatch";
+import Footer from "../Footer";
 
 function App() {
    const [timerData, setTimerData] = useState([]);
@@ -30,13 +30,18 @@ function App() {
             {timerData.length === 0 ? (
                <p>Loading</p>
             ) : (
-               timerData[0].map(function (item, index) {
-                  return <Stopwatch key={index} metric={item.title} />;
-               })
+               timerData[0].map(({ title, warning, overdue }, index) => (
+                  <Stopwatch
+                     key={index}
+                     metric={title}
+                     warning={warning}
+                     overdue={overdue}
+                  />
+               ))
             )}
          </div>
-         <QuoteText/>
-         <Footer/>
+         <QuoteText />
+         <Footer />
       </div>
    );
 }
