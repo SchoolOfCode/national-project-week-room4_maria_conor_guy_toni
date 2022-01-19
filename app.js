@@ -15,7 +15,14 @@ app.use(cors());
 app.use(express.json());
 app.use(express.urlencoded({ extended: false }));
 app.use(cookieParser());
+// Express only serves static assets in production
+if (process.env.NODE_ENV === "production") {
+  app.use(express.static("wellnessapp/build"));
+}
 app.use(express.static(path.join(__dirname, "public")));
+
+
+
 
 app.use('/timers', timersRouter);
 
