@@ -2,12 +2,13 @@ import { useEffect, useState } from "react";
 import Logo from "../Logo";
 import PageHeading from "../PageHeading";
 import PageSubheading from "../PageSubheading";
+import QuoteText from "../QuoteText";
 import "./App.css";
 import Stopwatch from "../Stopwatchapp";
+import Footer from "../Footer"
 
 function App() {
    const [timerData, setTimerData] = useState([]);
-
    async function getTimers() {
       const response = await fetch("/timers");
       const data = await response.json();
@@ -34,6 +35,8 @@ function App() {
                })
             )}
          </div>
+         <QuoteText/>
+         <Footer/>
       </div>
    );
 }
