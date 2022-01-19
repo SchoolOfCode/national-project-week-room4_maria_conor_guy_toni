@@ -10,7 +10,9 @@
       "start": "node -r dotenv/config ./bin/www.js --ignore client",
       "dev": "nodemon ./bin/www.js",
       "dbcreatetimetable": "node -r dotenv/config ./db/scripts/createTimeTable.js",
-      "dbpopulatetimetable": "node -r dotenv/config  ./db/scripts/populateTimeTable.js"
+      "dbpopulatetimetable": "node -r dotenv/config  ./db/scripts/populateTimeTable.js",
+      "dbcreatequotestable": "node -r dotenv/config ./db/scripts/createQuotesTable.js",
+      "dbpopulatequotestable": "node -r dotenv/config  ./db/scripts/populateQuotesTable.js"
    },
    "dependencies": {
       "cookie-parser": "~1.4.4",

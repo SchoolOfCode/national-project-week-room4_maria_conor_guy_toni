@@ -1,0 +1,30 @@
+const quotes = [
+   { id: 1, quote: "Care about what other people think and you will always be their prisoner", author: "Lao Tzu"},
+   { id: 2, quote: "Always do what is right. It will gratify half of mankind and astound the other", author: "Mark Twain"},
+   { id: 3, quote: "Just because you are happy it does not mean that the day is perfect but that you have looked beyond its imperfections", author: "Bob Marley"},
+   { id: 4, quote: "Happiness is a gift and the trick is not to expect it, but to delight in it when it comes", author: "Charles Dickens"},
+   { id: 5, quote: "Decide whether or not the goal is worth the risks involved. If it is, stop worrying", author: "Amelia Earhart"},
+   { id: 6, quote: "Nothing is impossible. The word itself says 'I'm possible!", author: "Audrey Hepburn"},
+   { id: 7, quote: "Where you are right now doesn't have to determine where you'll end up", author: "Barack Obama"},
+   { id: 8, quote: "Life has no limitations except the ones you make", author: "Les Brown"},
+   { id: 9, quote: "You're only given a little spark of madness. You mustn't lose it", author: "Robin Williams"},
+   { id: 10, quote: "You are not one person, but three: The one you think you are; The one others think you are; The one you really are", author: "Sathya Sai Baba"},
+   { id: 1, quote: "", author: ""},
+   { id: 1, quote: "", author: ""},
+   { id: 1, quote: "", author: ""},
+   { id: 1, quote: "", author: ""},
+   { id: 1, quote: "", author: ""},
+   { id: 1, quote: "", author: ""},
+   { id: 1, quote: "", author: ""},
+   { id: 1, quote: "", author: ""},
+   { id: 1, quote: "", author: ""},
+   { id: 1, quote: "", author: ""},
+   { id: 1, quote: "", author: ""},
+   { id: 1, quote: "", author: ""},
+   { id: 1, quote: "", author: ""},
+   { id: 1, quote: "", author: ""},
+   { id: 1, quote: "", author: ""},
+
+];
+
+export default quotes;

@@ -19,7 +19,6 @@ async function getQuote() {
     let data = await response.json();
 
 
-// var quotes = data[Math.floor(Math.random()*data.length)];
 
 //    const response = await fetch("https://zenquotes.io/api/random",{ mode: 'no-cors'});
 //    let data = await response.json();
