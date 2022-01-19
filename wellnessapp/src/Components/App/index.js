@@ -25,9 +25,13 @@ function App() {
          <Logo />
          <PageHeading />
          <PageSubheading />
-         {timerData[0].map(function (item, index) {
-            return <Stopwatch key={index} metric={item.title} />;
-         })}
+         {timerData.length === 0 ? (
+            <p>Loading</p>
+         ) : (
+            timerData[0].map(function (item, index) {
+               return <Stopwatch key={index} metric={item.title} />;
+            })
+         )}
       </div>
    );
 }
