@@ -7,7 +7,6 @@ const [quoteData, setQuoteData] = useState({});
 
 useEffect(() => {
 async function getQuote() {
-    // event.preventDefault()
 
 
     let response = await fetch("https://bodybuilding-quotes1.p.rapidapi.com/quotes?page=1", {
@@ -21,7 +20,7 @@ async function getQuote() {
 // var quotes = data[Math.floor(Math.random()*data.length)];
 //    const response = await fetch("https://zenquotes.io/api/random",{ mode: 'no-cors'});
 //    let data = await response.json();
-   setQuoteData(data[0]);
+   setQuoteData(data[1]);
    
    console.log(data);
 }

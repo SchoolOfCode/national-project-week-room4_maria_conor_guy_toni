@@ -4,6 +4,7 @@ import PageHeading from "../PageHeading";
 import PageSubheading from "../PageSubheading";
 import QuoteText from "../QuoteText";
 import "./App.css";
+import Footer from "../Footer"
 
 function App() {
    const [timerData, setTimerData] = useState([]);
@@ -31,6 +32,7 @@ function App() {
          <PageHeading/>
          <PageSubheading/>
          <QuoteText/>
+         <Footer/>
       </div>
    );
 }
