@@ -10,23 +10,24 @@ function App() {
 
    async function getTimers() {
       const response = await fetch("/timers");
-      let data = await response.json();
+      const data = await response.json();
       setTimerData([...timerData, data.payload]);
-      console.log(data.payload);
    }
 
    useEffect(() => {
       getTimers();
    }, []);
 
-   console.log("this is the timerdata", timerData);
+   console.log(timerData);
 
    return (
       <div className="App">
          <Logo />
          <PageHeading />
          <PageSubheading />
-         <Stopwatch metric={timerData.title} />
+         {timerData[0].map(function (item, index) {
+            return <Stopwatch key={index} metric={item.title} />;
+         })}
       </div>
    );
 }
