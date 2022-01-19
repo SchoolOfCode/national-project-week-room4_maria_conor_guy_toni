@@ -1,16 +1,16 @@
 {
   "files": {
     "main.css": "/static/css/main.14fb9c96.css",
-    "main.js": "/static/js/main.aab9c187.js",
+    "main.js": "/static/js/main.fa473dc1.js",
     "static/js/787.72fb2167.chunk.js": "/static/js/787.72fb2167.chunk.js",
     "static/media/School-of-Wellness.png": "/static/media/School-of-Wellness.448ccfd0478c6db41d55.png",
     "index.html": "/index.html",
     "main.14fb9c96.css.map": "/static/css/main.14fb9c96.css.map",
-    "main.aab9c187.js.map": "/static/js/main.aab9c187.js.map",
+    "main.fa473dc1.js.map": "/static/js/main.fa473dc1.js.map",
     "787.72fb2167.chunk.js.map": "/static/js/787.72fb2167.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.14fb9c96.css",
-    "static/js/main.aab9c187.js"
+    "static/js/main.fa473dc1.js"
   ]
 }
