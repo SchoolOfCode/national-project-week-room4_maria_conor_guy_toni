@@ -1,6 +1,6 @@
 import React from "react";
 import "./Timer.css";
-
+// This function calculates the timers and manages the display.
 export default function Timer({ time, timerState }) {
    return (
       <div className={`timer ${timerState}`}>

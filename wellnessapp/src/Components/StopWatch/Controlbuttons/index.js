@@ -13,6 +13,7 @@ export default function ControlButtons(props) {
             I've done it!
          </div>
          <div className="btn btn-one" onClick={props.handlePauseResume}>
+         {/* Using the ternary operator it changes the button description when you click pause on the timers */}
             {props.isPaused ? "Keep tracking!" : "I'll do it now!"}
          </div>
       </div>
@@ -20,6 +21,7 @@ export default function ControlButtons(props) {
 
    return (
       <div className="Control-Buttons">
+      {/* using the ternary operator to swap the buttons that are displayed */}
          <div>{props.active ? ActiveButtons : StartButton}</div>
       </div>
    );
