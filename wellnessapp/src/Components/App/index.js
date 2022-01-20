@@ -8,13 +8,16 @@ import Stopwatch from "../StopWatch";
 import Footer from "../Footer";
 
 function App() {
+   // we are saving the data from our timers database into a state
    const [timerData, setTimerData] = useState([]);
+   // fetch the data and setting the timer data
    async function getTimers() {
       const response = await fetch("/timers");
       const data = await response.json();
+   //we reecive the data
       setTimerData([...timerData, data.payload]);
    }
-
+   // running the useEffect function to get our timers information
    useEffect(() => {
       getTimers();
    }, []);
@@ -22,32 +25,17 @@ function App() {
    console.log(timerData);
 
 
-   // const [quotesData, setQuotesData] = useState([]);
-   // async function getQuotes() {
-   //    const response = await fetch("/quotes");
-   //    const data = await response.json();
-   //    setQuotesData([...quotesData, data.payload]);
-   // }
-
-   // useEffect(() => {
-   //    getQuotes();
-   // }, [quotesData]);
-
-   // console.log(quotesData);
-
-
-
-
-
-
    return (
       <div className="App">
          <Logo />
-         <div className="headers">
-            <PageHeading />
+         <div className="headers"> 
+            <PageHeading /> 
             <PageSubheading />
          </div>
+         {/* going through the timers api returned array data and picking the values to display on stopwatch using map */}
+
          <div className="timers">
+         
             {timerData.length === 0 ? (
                <p>Loading</p>
             ) : (

@@ -5,7 +5,7 @@ import __dirname  from './dirname.js';
 import cookieParser  from 'cookie-parser';
 import cors  from 'cors';
 import logger  from 'morgan';
-
+// specification of our routers info to the server imported here
 import timersRouter  from './routes/timers.js';
 import quotesRouter  from './routes/quotes.js';
 
@@ -17,6 +17,9 @@ app.use(express.json());
 app.use(express.urlencoded({ extended: false }));
 app.use(cookieParser());
 // Express only serves static assets in production
+// this points to our frontend (needs to be named as per the app folder ie wellnessapp)
+// and the folder specifically made using npm run build
+
 if (process.env.NODE_ENV === "production") {
   app.use(express.static("wellnessapp/build"));
 }
@@ -24,7 +27,7 @@ app.use(express.static(path.join(__dirname, "public")));
 
 
 
-
+// routers routes used here
 app.use('/timers', timersRouter);
 app.use('/quotes', quotesRouter);
 
