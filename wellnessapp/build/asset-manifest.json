@@ -1,18 +1,18 @@
 {
   "files": {
     "main.css": "/static/css/main.64f605fa.css",
-    "main.js": "/static/js/main.0a9a247b.js",
+    "main.js": "/static/js/main.d4188782.js",
     "static/js/787.72fb2167.chunk.js": "/static/js/787.72fb2167.chunk.js",
     "static/media/School-of-Wellness.png": "/static/media/School-of-Wellness.448ccfd0478c6db41d55.png",
     "static/media/Samaritans-logo.png": "/static/media/Samaritans-logo.34bc2589bd84a4ef2563.png",
     "static/media/Mind-Logo.png": "/static/media/Mind-Logo.c0852e4a290d03519198.png",
     "index.html": "/index.html",
     "main.64f605fa.css.map": "/static/css/main.64f605fa.css.map",
-    "main.0a9a247b.js.map": "/static/js/main.0a9a247b.js.map",
+    "main.d4188782.js.map": "/static/js/main.d4188782.js.map",
     "787.72fb2167.chunk.js.map": "/static/js/787.72fb2167.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.64f605fa.css",
-    "static/js/main.0a9a247b.js"
+    "static/js/main.d4188782.js"
   ]
 }
