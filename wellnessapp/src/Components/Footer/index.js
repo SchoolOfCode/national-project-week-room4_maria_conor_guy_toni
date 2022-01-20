@@ -19,7 +19,7 @@ const Footer = () => {
          </div>
          <div className="footer__images">
          {/* this would be opening in the new tab, it can be changed from blank to whatever is required */}
-         <a href="https://www.samaritans.org/" target="_blank" rel="noreferer">
+         <a href="https://www.samaritans.org/" target="_blank" rel="noreferrer">
             <img
                className="footer__logo"
                src={samaritans}
@@ -30,7 +30,7 @@ const Footer = () => {
                
             /></a>
          {/* this would be opening in the new tab, it can be changed from blank to whatever is required */}
-         <a href="https://www.mind.org.uk" target="_blank" rel="noreferer">
+         <a href="https://www.mind.org.uk" target="_blank" rel="noreferrer">
             <img
                className="footer__logo mind__logo"
                src={mind}
