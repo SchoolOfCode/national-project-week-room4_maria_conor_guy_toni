@@ -1,9 +1,12 @@
+
 import React from "react";
+
 import samaritans from "../../images/Samaritans-logo.png";
 import mind from "../../images/Mind-Logo.png";
 import "./index.css";
 
 const Footer = () => {
+  
    return (
       <div className="footers">
          <div className="footer__text">
@@ -37,3 +40,4 @@ const Footer = () => {
 };
 
 export default Footer;
+

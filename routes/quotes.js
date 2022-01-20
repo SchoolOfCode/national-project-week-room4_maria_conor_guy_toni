@@ -1,16 +1,20 @@
 import express from "express";
 const router = express.Router();
-import { getAllTimers } from "../models/timers.js";
+import { getAllQuotes } from "../models/quotes.js";
 
-/* GET timers listing. */
+/* GET quotes listing. */
 router.get("/", async function (req, res, next) {
-   const data = await getAllTimers();
+   const data = await getAllQuotes();
+   console.log(data);
    res.json({
       success: true,
-      message: `time working`,
+      message: `quotes working`,
       payload: data,
+
+      
    });
    return;
+   
 });
 
 export default router;

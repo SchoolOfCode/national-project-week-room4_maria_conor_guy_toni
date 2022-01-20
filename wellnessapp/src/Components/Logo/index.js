@@ -1,5 +1,5 @@
-import img from "../../images/School-of-Wellness.png"
-import "./index.css"
+import img from "../../images/School-of-Wellness.png";
+import "./index.css";
 
 function Logo(){
     return (<div>
