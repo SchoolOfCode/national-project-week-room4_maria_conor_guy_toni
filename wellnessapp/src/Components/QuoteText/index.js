@@ -16,12 +16,13 @@ const [quotesData, setQuotesData] = useState([]);
 
    console.log(quotesData);
 
-const random = Math.floor(Math.random()*quotesData.length)+1
+const random = Math.floor(Math.random()*25)
     return (
         <div>
         {quotesData.length === 0 ? (
                <p>Loading</p>) : (
-                   quotesData[0][random].quote)}
+                
+                 `"${quotesData[0][random].quote}" - ${quotesData[0][random].author}`)}
 {/* quotesData[0][random].quote  quotesData[0][random].author
                )} */}
         </div>
