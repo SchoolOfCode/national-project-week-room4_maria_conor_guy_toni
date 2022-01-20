@@ -1,1 +1,5 @@
-.logo {height: 9.5em; width: 9.5em;}
+.logo {
+   height: 9.5em;
+   width: 9.5em;
+   border-radius: 0em 0em 2em 0em;
+}

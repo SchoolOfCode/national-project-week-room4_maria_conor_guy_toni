@@ -1,0 +1,17 @@
+.subtitle {
+   display: flex;
+   flex-direction: column;
+   justify-content: center;
+   align-items: center;
+   background-color: rgb(149, 175, 206);
+   border-radius: 0.5em;
+   height: 6em;
+   width: 60em;
+   box-shadow: 1px 1px 10px 2px rgb(95, 116, 143);
+}
+
+.subheading__text {
+   padding: 0.5em;
+}
+
+/* rgb(115, 137, 165); */

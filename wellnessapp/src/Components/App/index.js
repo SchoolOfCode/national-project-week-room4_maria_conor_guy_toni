@@ -43,8 +43,10 @@ function App() {
    return (
       <div className="App">
          <Logo />
-         <PageHeading />
-         <PageSubheading />
+         <div className="headers">
+            <PageHeading />
+            <PageSubheading />
+         </div>
          <div className="timers">
             {timerData.length === 0 ? (
                <p>Loading</p>
@@ -59,21 +61,15 @@ function App() {
                ))
             )}
          </div>
-         <div className="quotes">
+ 
+         <div className="quote__container">
+            <QuoteText />
 
          
-         {/* {quotesData.length === 0 ? (
-               <p>Loading</p>
-            ) : (
-               quotesData[0].map(({ quote, author }, index) => (
-                  <QuoteText
-                     key={index}
-                     quote={quote}
-                     author={author}
-                  />
-               ))
-            )} */}
-<QuoteText />
+
+         
+  
+
          </div>
          <Footer />
       </div>
