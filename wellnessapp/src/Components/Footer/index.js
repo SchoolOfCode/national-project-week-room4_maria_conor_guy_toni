@@ -12,10 +12,10 @@ const Footer = () => {
 
 
           </p>
-          <img className = "logos" src = {samaritans} alt="Samaritans logo" width="100px"height="100px"
-              href="https://www.samaritans.org/" target="_blank"/>
-          <img className = "logos" src = {mind} alt="Mind Logo" width="100px"height="100px"
-              href="https://www.mind.org.uk/" target="_blank"/>
+          <a href="https://www.samaritans.org/" target="_blank" rel="noreferrer">
+          <img className = "logos" src = {samaritans} alt="Samaritans logo" width="100px"height="100px"/></a>
+          <a href="https://www.mind.org.uk/" target="_blank" rel="noreferrer">   
+          <img className = "logos" src = {mind} alt="Mind Logo" width="100px"height="100px"/></a>  
 
           
           
