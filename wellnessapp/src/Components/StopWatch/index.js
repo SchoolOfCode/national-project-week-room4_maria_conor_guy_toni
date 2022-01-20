@@ -3,6 +3,7 @@ import "./StopWatch.css";
 import Timer from "./Timer";
 import ControlButtons from "./Controlbuttons";
 import MetricText from "./MetricText";
+import Popup from "./Popup";
 
 const getSeconds = (timeString) => {
    const [hours, minutes, seconds] = timeString.split(":");
@@ -10,12 +11,18 @@ const getSeconds = (timeString) => {
 };
 
 function StopWatch({ metric, warning, overdue }) {
-   const warningSeconds = getSeconds(warning);
+   const warningSeconds = getSeconds("00:00:05");
    const overdueSeconds = getSeconds(overdue);
 
    const [isActive, setIsActive] = useState(false);
    const [isPaused, setIsPaused] = useState(true);
    const [time, setTime] = useState(0);
+
+   const popupState = useMemo(() => {
+      if (time / 1000 > warningSeconds) {
+         return true;
+      }
+   });
 
    const timerState = useMemo(() => {
       if (time / 1000 > overdueSeconds) {
@@ -67,6 +74,7 @@ function StopWatch({ metric, warning, overdue }) {
             handlePauseResume={handlePauseResume}
             handleReset={handleReset}
          />
+         <Popup popupState={popupState} />
       </div>
    );
 }
