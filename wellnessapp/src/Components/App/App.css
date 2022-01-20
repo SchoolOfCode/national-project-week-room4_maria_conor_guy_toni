@@ -1,4 +1,27 @@
+@import url("https://fonts.googleapis.com/css2?family=Alata&family=DotGothic16&family=Orbitron:wght@400;500&family=PT+Sans+Narrow&display=swap");
+@import url("https://fonts.googleapis.com/css2?family=ABeeZee&family=PT+Sans+Narrow&display=swap");
+
+.App {
+   background-image: url("https://images.unsplash.com/photo-1554034483-04fda0d3507b?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1470&q=80");
+   background-repeat: no-repeat;
+   background-size: 100% 100%;
+   font-family: "ABeeZee", sans-serif;
+}
+
+.headers {
+   display: flex;
+   flex-direction: column;
+   align-items: center;
+   margin-top: -10em;
+   margin-bottom: 5em;
+}
 .timers {
    display: flex;
    justify-content: space-around;
+}
+
+.quote__container {
+   display: flex;
+   justify-content: center;
+   margin-top: 4em;
 }

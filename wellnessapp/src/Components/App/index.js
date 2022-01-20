@@ -24,8 +24,10 @@ function App() {
    return (
       <div className="App">
          <Logo />
-         <PageHeading />
-         <PageSubheading />
+         <div className="headers">
+            <PageHeading />
+            <PageSubheading />
+         </div>
          <div className="timers">
             {timerData.length === 0 ? (
                <p>Loading</p>
@@ -40,7 +42,9 @@ function App() {
                ))
             )}
          </div>
-         <QuoteText />
+         <div className="quote__container">
+            <QuoteText />
+         </div>
          <Footer />
       </div>
    );
