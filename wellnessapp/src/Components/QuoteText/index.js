@@ -1,4 +1,5 @@
-import React, {useEffect, useState} from 'react'
+import React, {useEffect, useState} from 'react';
+import "./index.css";
 
 const QuoteText = () => {
 // need to fetch text from a quotes api and return it in a box
@@ -9,7 +10,7 @@ useEffect(() => {
 async function getQuote() {
 
 
-    let response = await fetch("https://bodybuilding-quotes1.p.rapidapi.com/quotes?page=1", {
+    let response = await fetch("https://bodybuilding-quotes1.p.rapidapi.com/quotes?page=2", {
         "method": "GET",
         "headers": {
             "x-rapidapi-host": "bodybuilding-quotes1.p.rapidapi.com",
