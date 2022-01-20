@@ -1,16 +1,20 @@
 import express from "express";
-const quotesRouter = express.Router();
+const router = express.Router();
 import { getAllQuotes } from "../models/quotes.js";
 
 /* GET quotes listing. */
-quotesRouter.get("/quotes", async function (req, res, next) {
+router.get("/", async function (req, res, next) {
    const data = await getAllQuotes();
+   console.log(data);
    res.json({
       success: true,
       message: `quotes working`,
       payload: data,
+
+      
    });
    return;
+   
 });
 
-export default quotesRouter;
+export default router;

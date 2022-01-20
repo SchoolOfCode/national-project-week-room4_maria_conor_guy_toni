@@ -7,7 +7,7 @@ let quote = quotes[i].quote;
 let author =  quotes[i].author;
 
 
-const res = await query (`INSERT INTO quotes (quote, author) VALUES ($1, $2) RETURNING title`, [quote, author]);
+const res = await query (`INSERT INTO quotes (quote, author) VALUES ($1, $2) RETURNING quote`, [quote, author]);
 
 console.log(res);
 
