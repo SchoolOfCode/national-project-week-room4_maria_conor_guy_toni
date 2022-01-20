@@ -21,11 +21,11 @@ const QuoteText = () => {
       {quotesData.length === 0 ? (
         <p>Loading</p>
       ) : (
-{/* Here were are picking the quote and the author from our quotes array */}
         `"${quotesData[0][random].quote}" - ${quotesData[0][random].author}`
       )}
     </div>
+    
   );
 };
-
+// Here were are picking the quote and the author from our quotes array 
 export default QuoteText;
