@@ -14,12 +14,12 @@ function Popup({ children, setTrigger, popupState, metric }) {
       <div className="popup">
          <div className="popup-inner">
             <button className="close-btn" onClick={() => setTrigger(false)}>
-               X
+               close
             </button>
             {children}
             <p>
                Remember to look after yourself! It's almost time that you{" "}
-               {metric}!
+               {metric}
             </p>
          </div>
       </div>

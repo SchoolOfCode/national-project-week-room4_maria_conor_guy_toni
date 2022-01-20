@@ -74,7 +74,7 @@ function StopWatch({ metric, warning, overdue }) {
             handlePauseResume={handlePauseResume}
             handleReset={handleReset}
          />
-         <Popup popupState={popupState} />
+         <Popup metric={metric} popupState={popupState} />
       </div>
    );
 }
