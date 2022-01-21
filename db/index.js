@@ -2,7 +2,7 @@
 import pg from "pg";
 import {db} from "../config.js"
 
-
+// no need to change here. Helps with anonimisation of the passwords and log in information 
 const pool = new pg.Pool({
   user: db.user,
   host: db.host,

@@ -11,12 +11,15 @@ const Footer = () => {
       <div className="footers">
          <div className="footer__text">
             <p>
+            {/* currently inactive, could be added later */}
                <a>Ts&Cs</a>|
+               {/* email can be changed here for a different contact */}
                <a href="mailto:anne-marie@schoolofcode.com?subject=I might need some help&body=Hello Anne-Marie">Contact</a>
             </p>
          </div>
          <div className="footer__images">
-         <a href="https://www.samaritans.org/" target="_blank" rel="noreferer">
+         {/* this would be opening in the new tab, it can be changed from blank to whatever is required */}
+         <a href="https://www.samaritans.org/" target="_blank" rel="noreferrer">
             <img
                className="footer__logo"
                src={samaritans}
@@ -26,7 +29,8 @@ const Footer = () => {
               
                
             /></a>
-            <a href="https://www.mind.org.uk" target="_blank" rel="noreferer">
+         {/* this would be opening in the new tab, it can be changed from blank to whatever is required */}
+         <a href="https://www.mind.org.uk" target="_blank" rel="noreferrer">
             <img
                className="footer__logo mind__logo"
                src={mind}
