@@ -10,8 +10,8 @@ const getSeconds = (timeString) => {
 };
 
 function StopWatch({ metric, warning, overdue }) {
-   const warningSeconds = getSeconds("00:00:05");
-   const overdueSeconds = getSeconds("00:00:10");
+   const warningSeconds = getSeconds(warning);
+   const overdueSeconds = getSeconds(overdue);
 
    const [isActive, setIsActive] = useState(false);
    const [isPaused, setIsPaused] = useState(true);
