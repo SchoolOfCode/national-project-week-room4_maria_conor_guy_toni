@@ -8,6 +8,7 @@ import Stopwatch from "../StopWatch";
 import Footer from "../Footer";
 
 function App() {
+
    // we are saving the data from our timers database into a state
    const [timerData, setTimerData] = useState([]);
    // fetch the data and setting the timer data
@@ -58,10 +59,12 @@ function App() {
          
   
 
-         </div>
-         <Footer />
+      <div className="quote__container">
+        <QuoteText />
       </div>
-   );
+      <Footer />
+    </div>
+  );
 }
 
 export default App;
