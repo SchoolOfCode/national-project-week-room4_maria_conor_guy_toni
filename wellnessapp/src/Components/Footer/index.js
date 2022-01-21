@@ -1,6 +1,5 @@
 
 import React from "react";
-
 import samaritans from "../../images/Samaritans-logo.png";
 import mind from "../../images/Mind-Logo.png";
 import "./index.css";
@@ -14,7 +13,9 @@ const Footer = () => {
             {/* currently inactive, could be added later */}
                <a>Ts&Cs</a>|
                {/* email can be changed here for a different contact */}
+             
                <a href="mailto:anne-marie@schoolofcode.com?subject=I might need some help&body=Hello Anne-Marie">Contact</a>
+           
             </p>
          </div>
          <div className="footer__images">
