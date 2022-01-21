@@ -51,20 +51,12 @@ function App() {
             )}
          </div>
  
-         <div className="quote__container">
-            <QuoteText />
-
-         
-
-         
-  
-
       <div className="quote__container">
         <QuoteText />
       </div>
       <Footer />
     </div>
-    </div>
+    
   );
 }
 

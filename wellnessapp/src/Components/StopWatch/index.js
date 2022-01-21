@@ -11,7 +11,7 @@ const getSeconds = (timeString) => {
 };
 
 function StopWatch({ metric, warning, overdue }) {
-   const warningSeconds = getSeconds("00:00:02");
+   const warningSeconds = getSeconds(warning);
    const overdueSeconds = getSeconds(overdue);
 
    const [isActive, setIsActive] = useState(false);
