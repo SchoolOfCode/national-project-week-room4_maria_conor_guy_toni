@@ -3,3 +3,21 @@
    width: 9.5em;
    border-radius: 0em 0em 2em 0em;
 }
+.tooltip {
+   visibility: hidden;  
+   position: relative;
+  display: inline-block;
+  border: darkcyan;
+  padding: 0.5rem;
+  border-radius: 1rem;
+  background-color: cornsilk;
+  font-family:Verdana, Geneva, Tahoma, sans-serif;
+  font-size: small;
+ }
+ 
+ .tooltip-on-hover:hover + .tooltip {    
+   visibility: visible; 
+   
+   
+  
+ }
